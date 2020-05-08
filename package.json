@@ -1,0 +1,24 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "This is a directory for learning full stack web development",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddeepakk13/Full-Stack-Course.git"
+  },
+  "author": "Deepak Mecheri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddeepakk13/Full-Stack-Course/issues"
+  },
+  "homepage": "https://github.com/ddeepakk13/Full-Stack-Course#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
